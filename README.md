@@ -7,7 +7,7 @@
 Official repository for "[*Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media*](https://arxiv.org/abs/2412.18148)"
 
 <div align="center">
-  <img src="pipline.jpg" alt="Method Overview" width="800"/>
+  <img src="pipeline.jpg" alt="Method Overview" width="800"/>
   <p><em>Pipeline of quantifying AIGTs on social media platforms</em></p>
 </div>
 
