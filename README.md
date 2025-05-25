@@ -65,8 +65,7 @@ python evaluate_aigtbench.py \
 - **Access**: Contact **zsun344@connect.hkust-gz.edu.cn** for research purposes
 
 ## 🏆 OSM-Det Checkpoint
-- **Download**: [Vincent-HKUSTGZ/AIGT_on_Social_Media](https://github.com/Vincent-HKUSTGZ/AIGT_on_Social_Media)
-- **Performance**: 97.9% accuracy, 98.0% F1-score
+- **Download**: [OSM-Det](https://huggingface.co/tarryzhang/OSM-Det)
 
 ## 📋 Requirements
 
