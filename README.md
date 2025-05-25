@@ -4,7 +4,12 @@
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-AIGTBench-yellow)](https://huggingface.co/datasets/tarryzhang/AIGTBench)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-Official repository for [*Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media*](https://arxiv.org/abs/2412.18148)
+Official repository for "[*Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media*](https://arxiv.org/abs/2412.18148)"
+
+<div align="center">
+  <img src="assets/method_overview.png" alt="Method Overview" width="800"/>
+  <p><em>Pipeline of quantifying AIGTs on social media platforms</em></p>
+</div>
 
 ## 🚀 Quick Start
 
