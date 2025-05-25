@@ -73,6 +73,7 @@ python evaluate_aigtbench.py \
 - Python 3.10+
 - CUDA 11.8+ (for GPU)
 - 41GB+ GPU memory (for training)
+- 21GB+ GPU memory (for inference)
 
 ## 📜 Citation
 
