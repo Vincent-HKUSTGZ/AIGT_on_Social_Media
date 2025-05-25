@@ -8,7 +8,6 @@ Official repository for "[*Are We in the AI-Generated Text World Already? Quanti
 
 <div align="center">
   <img src="pipeline.jpg" alt="Method Overview" width="800"/>
-  <p><em>Pipeline of quantifying AIGTs on social media platforms</em></p>
 </div>
 
 ## 🚀 Quick Start
