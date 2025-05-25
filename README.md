@@ -1,10 +1,10 @@
-# [ACL2025] Are We in the AI-Generated Text World Already? 🤖📱
+# Are We in the AI-Generated Text World Already? 🤖📱
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.18148-b31b1b.svg)](https://arxiv.org/abs/2412.18148)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-AIGTBench-yellow)](https://huggingface.co/datasets/tarryzhang/AIGTBench)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-Official repository for "[*Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media*](https://arxiv.org/abs/2412.18148)"
+[ACL2025] Official repository for "[*Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media*](https://arxiv.org/abs/2412.18148)"
 
 <div align="center">
   <img src="pipeline.jpg" alt="Method Overview" width="800"/>
