@@ -1,4 +1,4 @@
-# Are We in the AI-Generated Text World Already? 🤖📱
+# [ACL2025] Are We in the AI-Generated Text World Already? 🤖📱
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.18148-b31b1b.svg)](https://arxiv.org/abs/2412.18148)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-AIGTBench-yellow)](https://huggingface.co/datasets/tarryzhang/AIGTBench)
