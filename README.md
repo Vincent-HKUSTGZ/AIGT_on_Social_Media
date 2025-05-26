@@ -56,7 +56,7 @@ python evaluate_aigtbench.py \
 ## 📊 Datasets
 
 ### AIGTBench
-- **🤗 Hugging Face**: [tarryzhang/AIGTBench](https://huggingface.co/datasets/tarryzhang/AIGTBench)
+- **🤗 Hugging Face**: [AIGTBench](https://huggingface.co/datasets/tarryzhang/AIGTBench)
 - **Content**: ~28.77M AIGT + 13.55M human-written samples
 - **Platforms**: Medium, Quora, Reddit
 
