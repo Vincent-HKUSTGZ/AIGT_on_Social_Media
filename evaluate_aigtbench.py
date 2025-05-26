@@ -165,7 +165,7 @@ def print_and_save_results(labels, preds, dataset_name="Dataset", save_dir=None)
 
 def evaluate_by_platform(dataset, model, tokenizer, device, args, save_dir=None):
     """按平台分别评估"""
-    platforms = ['Medium', 'Quora', 'Reddit']
+    platforms = ['medium', 'quora', 'reddit']
     platform_results = {}
     
     for platform in platforms:
